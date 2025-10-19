@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- API Key Implemented as Requested ---
     // Security Warning: Exposing an API key in client-side code is a security risk.
-    const API_KEY = 'AIzaSyB_nQXP8e31gIPRl_TWG9Vr31USM7QypgU';
+    const API_KEY = 'AIzaSyDHWN16T7Czc7qpsZGYVJy06JNT-HOk3Qs';
 
     // --- RESPONSIVE NAVIGATION ---
     const navToggle = document.getElementById('nav-toggle');
@@ -420,3 +420,4 @@ document.addEventListener('DOMContentLoaded', () => {
         events.forEach(event => observer.observe(event));
     }
 });
+
